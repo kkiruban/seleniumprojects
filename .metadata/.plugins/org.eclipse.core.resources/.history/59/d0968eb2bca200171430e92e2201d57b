@@ -1,0 +1,14 @@
+package AdvancedJavaprograms;
+
+public class StringReplace {
+
+	public static void main(String[] args) {
+		
+		
+		String str="kirubanand rama";
+		
+		
+
+	}
+
+}

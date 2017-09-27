@@ -1,0 +1,3 @@
+SalesforceAutomation.disabledListeners=true
+SalesforceAutomation.outdir=/test-output
+eclipse.preferences.version=1

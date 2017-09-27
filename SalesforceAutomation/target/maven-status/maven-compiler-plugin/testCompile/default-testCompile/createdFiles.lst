@@ -1,0 +1,4 @@
+com\SFDC\pageobjects\createaccountpage.class
+com\SFDC\tests\SalesforceAutomation\sdfc.class
+com\SFDC\pageobjects\createcontactpage.class
+com\SFDC\pageobjects\loginpage.class

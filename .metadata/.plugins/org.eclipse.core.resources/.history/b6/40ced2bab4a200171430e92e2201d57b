@@ -1,0 +1,14 @@
+package AdvancedJavaprograms;
+
+public class Stringimmutable {
+
+	public static void main(String[] args) {
+		
+		
+		//Strings are immutable because once you create string object u cannot make changes to existing string object 
+
+		
+		
+	}
+
+}

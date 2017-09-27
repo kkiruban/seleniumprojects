@@ -1,0 +1,12 @@
+package AdvancedJavaprograms;
+
+public class Stringimmutable {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("character A occured no of times in a given string :" + count); 
+
+	}
+
+}

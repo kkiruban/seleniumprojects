@@ -1,0 +1,11 @@
+package interviewpreparation;
+
+public class reversenumber {
+
+	public static void main(String[] args) {
+		
+		int i=234;
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package smallprogramsinterviewpreparation;
+
+public class primenumber {
+
+	public static void main(String[] args) {
+		
+		int n=17;
+		int m;
+		
+		m=n/2;
+		
+		
+	}
+
+}

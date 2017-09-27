@@ -1,0 +1,24 @@
+package AdvancedJavaprograms;
+
+public class StringReplace {
+
+	public static void main(String[] args) {
+		
+		
+		//replace string
+		String str="kirubanand rama";
+		
+		String replacestring=str.replaceAll("rama", "ramasamy");
+		
+		System.out.println(replacestring);
+		
+		//replace char
+				String str="kirubanand rama";
+				
+				String replacechar=
+				
+				System.out.println(replacechar);
+
+	}
+
+}

@@ -1,0 +1,31 @@
+package AdvancedJavaprograms;
+
+public class Stringimmutable {
+
+	public static void main(String[] args) {
+		
+		
+		//Strings are immutable because once you create string object u cannot make changes to existing string object 
+
+		//String is slow and consumes more memory when you concat too many strings because every time it creates new instance.
+		
+		//stringbuffer is mutable
+		StringBuffer is fast and consumes less memory when you cancat strings.
+		//strings
+		String s1="kirubanand";
+		s1.concat("ramasamy");
+		
+		
+		//string buffer
+		StringBuffer strbuffer=new StringBuffer("kirubanand");
+		strbuffer.append(" Ramasamy");
+		
+		
+		
+		System.out.println("String is immutable :" +s1);
+		System.out.println("stringbuffer is mutable :" + strbuffer);
+		
+	}
+
+}
+

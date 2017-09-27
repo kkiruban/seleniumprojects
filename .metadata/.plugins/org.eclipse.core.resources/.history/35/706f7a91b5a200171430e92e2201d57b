@@ -1,0 +1,29 @@
+package AdvancedJavaprograms;
+
+public class Stringimmutable {
+
+	public static void main(String[] args) {
+		
+		
+		//Strings are immutable because once you create string object u cannot make changes to existing string object 
+
+		//stringbuffer is mutable
+		
+		//strings
+		String s1="kirubanand";
+		s1.concat("ramasamy");
+		
+		
+		//string buffer
+		StringBuffer strbuffer=new StringBuffer("kirubanand");
+		strbuffer.append(" Ramasamy");
+		
+		
+		
+		System.out.println("String is immutable :" +s1);
+		System.out.println("stringbuffer is mutable :" + strbuffer);
+		
+	}
+
+}
+

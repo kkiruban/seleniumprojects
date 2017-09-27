@@ -1,0 +1,14 @@
+package AdvancedJavaprograms;
+
+public class totalnoofdigitsinaString {
+
+	public static void main(String[] args) {
+		
+		String str="kiru262626";
+		
+		 int count=0;
+		 
+
+	}
+
+}
